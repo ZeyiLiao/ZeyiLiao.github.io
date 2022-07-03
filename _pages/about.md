@@ -10,17 +10,12 @@ redirect_from:
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=gzn00417.github.io)
 
-Welcome to Zhuoning Guo (郭茁宁) 's homepage!
+Welcome to Zeyi Liao (廖泽熠) 's homepage!
 
-I'm an incoming Ph.D. student at AI Thrust, Information Hub, [The Hong Kong University of Science and Technology (Guangzhou Campus)](https://hkust-gz.edu.cn/), supervised by [Prof. Hao Liu \(刘浩\)](https://raymondhliu.github.io/) and [Prof. Qiang Yang \(杨强\)](https://cse.hkust.edu.hk/~qyang/). Moreover, I received my bachelor degree of software engineering from [Computing Faculty](http://cs.hit.edu.cn/), [Harbin Institute of Technology](http://www.hit.edu.cn/). My research interests includes data mining, graph learning and urban computing.
+I'm currently a master student at USC and work at [INK lab](https://inklab.usc.edu/)， supervised by [Prof. Xiang ren](https://shanzhenren.github.io/) and [Phd Soumya Sanya](https://soumyasanyal.github.io/). Before I came to USC, I received my bachelor degree from [BJTU](http://en.njtu.edu.cn/) supervised by [Prof Yishuai Chen](http://eie.bjtu.edu.cn/WebHtml/szdw/0406) and worked as a research assitant at [ADaM lab](https://adam-bjtu.org/#/zhcn/home).
+My research interested in Natural Language Processing and machine learning.
 
-> HKUST(GZ) is a new campus of [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) rather than an independent university, which is located in Guangzhou, China, and focusing on interdisciplinary research.
-
-Currently, I am a research intern at [Baidu Research](http://research.baidu.com/) and collaborate with Baidu Talent Intelligence Center, supervised by [Dr. Hengshu Zhu](https://www.zhuhengshu.com/). Before that, I was a research intern at DKI Group, [Microsoft Research Asia](https://www.msra.cn/) supervised by [Dr. Shizhao Sun](https://www.linkedin.com/in/%E8%AF%97%E6%98%AD-%E5%AD%99-771b42141/), and a research assistant at [HIT-DBLab](http://cs.hit.edu.cn/2018/1126/c11289a218419/page.htm) supervised by [Prof. Hongzhi Wang](http://homepage.hit.edu.cn/wang).
-
-During my undergraduate life in HIT, I'm honored as the chairman of [HIT Massive Data Club](http://cs.hit.edu.cn/hlsjjlb/list.htm), captain of Football Team of Computing Faculty, HIT and president of HIT Chess Club.
-
-Here is my latest [curriculum vitae](https://gzn00417.github.io/cv/).
+For more details, please refer to [curriculum vitae](../Resume.pdf).
 
 # News
 
