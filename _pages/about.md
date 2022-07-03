@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=gzn00417.github.io)
 
 Welcome to Zeyi Liao (廖泽熠) 's homepage!
 
