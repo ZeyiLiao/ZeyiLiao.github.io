@@ -11,7 +11,7 @@ redirect_from:
 
 Welcome to Zeyi Liao (廖泽熠) 's homepage!
 
-I'm currently a master student at USC and work at [INK lab](https://inklab.usc.edu/)， supervised by [Prof. Xiang ren](https://shanzhenren.github.io/) and [Phd Soumya Sanya](https://soumyasanyal.github.io/). Before I came to USC, I received my bachelor degree from [BJTU](http://en.njtu.edu.cn/) supervised by [Prof Yishuai Chen](http://eie.bjtu.edu.cn/WebHtml/szdw/0406) and worked as a research assitant at [ADaM lab](https://adam-bjtu.org/#/zhcn/home).
+I'm currently a master student at USC and work at [INK lab](https://inklab.usc.edu/)， supervised by [Prof. Xiang ren](https://shanzhenren.github.io/) and [Ph.d Soumya Sanya](https://soumyasanyal.github.io/). Before I came to USC, I received my bachelor degree from [BJTU](http://en.njtu.edu.cn/) supervised by [Prof Yishuai Chen](http://eie.bjtu.edu.cn/WebHtml/szdw/0406) and worked as a research assitant at [ADaM lab](https://adam-bjtu.org/#/zhcn/home).
 My research interested in Natural Language Processing and machine learning.
 
 For more details, please refer to [curriculum vitae](../Resume.pdf).

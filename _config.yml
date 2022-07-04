@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhuoning Guo"
+title                    : "Zeyi Liao"
 title_separator          : "-"
-name                     : &name "Zhuoning Guo"
-description              : &description "PhD student at HKUST(GZ)"
-url                      : https://gzn00417.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Zeyi Liao"
+description              : &description "Master student at USC"
+url                      : https://zeyiliao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "gzn00417/gzn00417.github.io"
+repository               : "https://zeyiliao.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhuoning Guo 郭茁宁"
+  name             : "Zeyi Liao (廖泽熠)"
   avatar           : "profile.png"
-  bio              : "Incoming PhD @HKUST | Research Intern @MSRA & @Baidu | UG @HIT 22' | OIer"
-  location         : "Quanzhou, Fujian, China"
+  bio              : "Master at USC | Intern at Ink Lab"
+  location         : "Hunan, China"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=jBd64WgAAAAJ&hl=en"
-  email            : "zhuoning.guo@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Zhuoning-Guo"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=8PkYONQAAAAJ"
+  email            : "zeyiliao@usc.edu"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -96,17 +96,17 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "gzn00417"
+  github           : "https://github.com/ZeyiLiao"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/zhuoning-guo"
+  linkedin         : "https://www.linkedin.com/in/zeyi-liao-0a343321a/"
   orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          :
