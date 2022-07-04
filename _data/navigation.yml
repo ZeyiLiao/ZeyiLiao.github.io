@@ -2,7 +2,7 @@
 main:
 
   - title: "CV"
-    url: "/#news"
+    url: "/#CV"
 
   - title: "Blog"
     url: "https://blog.csdn.net/gzn00417"
