@@ -20,5 +20,4 @@ For more details, please refer to [curriculum vitae](../Resume.pdf).
 # Publications
 
 - Sanyal S, **Liao Z**, Ren X. RobustLR: Evaluating Robustness to Logical Perturbation in Deductive Reasoning[J]. *preprint(Submitted to EMNLP)*
-- Wei Z, **Liao Z**, Bai H, et al. Semantic Map Based Image Compression via Conditional Generative Adversarial Network。 *International Conference on Image and Graphics. Springer, Cham, 2019: 13-22.*
-
+- Wei Z, **Liao Z**, Bai H, et al. Semantic Map Based Image Compression via Conditional Generative Adversarial Network. *International Conference on Image and Graphics. Springer, Cham, 2019: 13-22.*
