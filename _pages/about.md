@@ -19,10 +19,6 @@ For more details, please refer to [curriculum vitae](../Resume.pdf).
 
 # Publications
 
-- **Zhuoning Guo**, Hao Liu, Le Zhang, Qi Zhang, Hengshu Zhu, Hui Xiong. Talent Demand-Supply Joint Prediction with Dynamic Heterogeneous Graph Enhanced Meta-Learning. *Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining*
-- Wenyuan Kong, Zhaoyun Jiang, Shizhao Sun, **Zhuoning Guo**, Weiwei Cui, Ting Liu, Jian-Guang Lou, Dongmei Zhang. Aesthetics++: Refining Graphic Designs by Exploring Design Principles and Human Preference. *IEEE Transactions on Visualization & Computer Graphics*
+- Sanyal S, **Liao Z**, Ren X. RobustLR: Evaluating Robustness to Logical Perturbation in Deductive Reasoning[J]. *preprint(Submitted to EMNLP)*
+- Wei Z, **Liao Z**, Bai H, et al. Semantic Map Based Image Compression via Conditional Generative Adversarial Network。 *International Conference on Image and Graphics. Springer, Cham, 2019: 13-22.*
 
-# CV
-
-<!-- <object data="/files/paper1.pdf" width="1000" height="1000" type='application/pdf'></object> -->
-<a href="/files/paper1.pdf" target="_blank">Link!</a>
